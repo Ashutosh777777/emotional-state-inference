@@ -1,0 +1,121 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,supportive_message
+10001,overwhelmed,3,0.3425,1,pause,tomorrow_morning,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10002,restless,3,0.3307,0,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10003,focused,4,0.4563,0,deep_work,now,Things feel intense. You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10004,focused,3,0.3778,0,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10005,restless,3,0.2822,1,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10006,mixed,3,0.3796,0,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10007,restless,4,0.469,0,journaling,within_15_min,Things feel intense. Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10008,calm,3,0.224,1,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10009,restless,3,0.4876,0,journaling,within_15_min,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10010,overwhelmed,3,0.3523,0,pause,tomorrow_morning,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10011,overwhelmed,3,0.3593,0,pause,later_today,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10012,restless,3,0.4876,0,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10013,mixed,3,0.2631,1,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10014,focused,3,0.248,1,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10015,focused,3,0.226,1,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10016,neutral,4,0.4145,0,light_planning,tonight,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10017,mixed,4,0.4048,0,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10018,mixed,3,0.4288,0,journaling,later_today,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10019,focused,3,0.3475,1,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10020,calm,4,0.4005,1,rest,tonight,Things feel intense. Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10021,restless,2,0.4847,0,journaling,later_today,You're in a gentle space. Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10022,calm,3,0.4429,0,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10023,neutral,3,0.3023,0,journaling,tonight,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10024,neutral,4,0.3633,0,journaling,tonight,Things feel intense. Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10025,mixed,3,0.2414,1,journaling,later_today,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10026,restless,3,0.3725,0,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10027,mixed,4,0.2873,1,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10028,neutral,3,0.2652,1,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10029,restless,3,0.4299,0,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10030,calm,3,0.2632,1,rest,tonight,Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10031,focused,4,0.2685,1,deep_work,now,Things feel intense. You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10032,focused,3,0.3208,1,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10033,overwhelmed,3,0.3441,1,pause,later_today,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10034,neutral,3,0.3705,0,journaling,tonight,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10035,restless,3,0.259,1,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10036,restless,3,0.5425,0,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10037,calm,3,0.3723,0,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10038,focused,3,0.317,0,deep_work,tomorrow_morning,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10039,mixed,3,0.4933,0,journaling,later_today,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10040,mixed,3,0.2847,1,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10041,restless,3,0.3896,0,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10042,mixed,3,0.2141,1,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10043,restless,3,0.3071,1,journaling,within_15_min,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10044,calm,2,0.4053,0,rest,tonight,You're in a gentle space. Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10045,restless,4,0.4494,0,movement,within_15_min,Things feel intense. Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10046,focused,3,0.3335,0,deep_work,tomorrow_morning,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10047,calm,4,0.2498,1,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10048,overwhelmed,3,0.2659,1,pause,later_today,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10049,restless,3,0.3775,0,journaling,within_15_min,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10050,restless,3,0.325,1,journaling,within_15_min,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10051,calm,3,0.3034,0,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10052,focused,3,0.3671,0,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10053,calm,4,0.2462,1,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10054,restless,4,0.394,0,movement,within_15_min,Things feel intense. Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10055,mixed,4,0.3745,0,light_planning,tomorrow_morning,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10056,focused,3,0.2139,1,deep_work,tomorrow_morning,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10057,overwhelmed,3,0.4303,0,pause,later_today,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10058,overwhelmed,3,0.3902,0,pause,later_today,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10059,mixed,3,0.4412,0,journaling,tomorrow_morning,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10060,focused,3,0.2385,1,deep_work,tomorrow_morning,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10061,neutral,4,0.3535,0,light_planning,tonight,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10062,calm,3,0.4609,0,rest,tonight,Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10063,restless,3,0.4236,0,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10064,neutral,4,0.3613,0,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10065,neutral,4,0.2839,1,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10066,restless,3,0.4093,0,journaling,within_15_min,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10067,restless,4,0.3449,1,journaling,within_15_min,Things feel intense. Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10068,overwhelmed,4,0.3304,0,grounding,now,"Things feel intense. You're feeling overwhelmed — completely okay. Try grounding: name 5 things you see, 4 you can touch."
+10069,mixed,3,0.2337,1,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10070,restless,2,0.4242,0,journaling,later_today,You're in a gentle space. Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10071,restless,3,0.3035,1,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10072,calm,3,0.2646,1,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10073,restless,3,0.3855,0,journaling,within_15_min,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10074,mixed,3,0.399,0,journaling,later_today,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10075,restless,3,0.3045,1,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10076,mixed,2,0.4419,0,journaling,later_today,You're in a gentle space. Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10077,neutral,4,0.312,1,light_planning,tonight,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10078,focused,4,0.3507,0,deep_work,now,Things feel intense. You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10079,restless,2,0.545,0,journaling,later_today,You're in a gentle space. Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10080,calm,3,0.3028,1,rest,tonight,Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10081,restless,3,0.3137,0,journaling,within_15_min,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10082,mixed,3,0.288,1,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10083,focused,3,0.2372,1,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10084,overwhelmed,3,0.3965,0,pause,later_today,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10085,calm,3,0.4352,0,rest,tonight,Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10086,focused,3,0.2955,1,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10087,mixed,3,0.2938,1,light_planning,tomorrow_morning,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10088,neutral,4,0.285,1,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10089,calm,4,0.4206,0,rest,tonight,Things feel intense. Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10090,mixed,4,0.4917,0,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10091,overwhelmed,3,0.2567,1,pause,tomorrow_morning,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10092,overwhelmed,3,0.3056,0,pause,later_today,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10093,mixed,4,0.4056,0,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10094,focused,4,0.4135,0,deep_work,now,Things feel intense. You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10095,overwhelmed,3,0.3576,0,pause,tomorrow_morning,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10096,overwhelmed,4,0.2879,1,grounding,now,"Things feel intense. You're feeling overwhelmed — completely okay. Try grounding: name 5 things you see, 4 you can touch."
+10097,restless,3,0.2521,1,journaling,within_15_min,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10098,overwhelmed,3,0.3999,0,pause,later_today,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10099,mixed,4,0.2259,1,journaling,later_today,Things feel intense. Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10100,restless,4,0.2728,1,movement,within_15_min,Things feel intense. Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10101,calm,3,0.3082,0,rest,tonight,Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10102,overwhelmed,3,0.3539,0,pause,later_today,"The best action right now is a mindful pause. Breathe, observe, and simply be."
+10103,calm,3,0.3679,0,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10104,mixed,3,0.2131,1,journaling,later_today,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10105,focused,3,0.3749,0,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10106,focused,3,0.3307,0,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10107,focused,3,0.3467,0,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10108,overwhelmed,2,0.1902,1,pause,later_today,"You're in a gentle space. The best action right now is a mindful pause. Breathe, observe, and simply be."
+10109,mixed,3,0.2294,1,journaling,later_today,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10110,restless,3,0.3447,1,journaling,within_15_min,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10111,mixed,4,0.3439,0,light_planning,later_today,Things feel intense. You're in a balanced state — a perfect time to sketch your next priorities gently.
+10112,mixed,3,0.3942,0,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10113,calm,3,0.3026,1,light_planning,later_today,You're in a balanced state — a perfect time to sketch your next priorities gently.
+10114,restless,3,0.3349,1,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10115,calm,3,0.4908,0,rest,tonight,Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10116,calm,2,0.3256,0,rest,tonight,You're in a gentle space. Your body is asking for recovery. Rest isn't laziness; it's essential maintenance.
+10117,restless,5,0.3343,0,movement,within_15_min,Things feel intense. Channel that restless energy — a brisk walk or a stretch will reset your nervous system.
+10118,focused,3,0.3041,1,deep_work,now,You're in a great mental space. Lock in on your most important task while this clarity lasts.
+10119,mixed,3,0.2395,1,journaling,tomorrow_morning,Your thoughts seem scattered. Writing them down can bring surprising clarity. Take 10 minutes to journal freely.
+10120,restless,3,0.289,1,movement,within_15_min,Channel that restless energy — a brisk walk or a stretch will reset your nervous system.

@@ -1,0 +1,105 @@
+id,journal_text,emotional_state,intensity,stress_level,energy_level,time_of_day,reflection_quality,text_length,is_vague_text,predicted_state,predicted_intensity,confidence,uncertain_flag,error_reason
+559,During the session mind was all over the place. Later it changed felt better after a bit.,calm,5,2,5,2,1,89,0,overwhelmed,3,0.3226,0,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+623,During teh session could focus for a while. Later it changed still anxious a bit.,overwhelmed,4,5,1,2,2,81,0,calm,2,0.2597,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+740,Honestly got distracted again.,overwhelmed,2,2,4,3,0,30,0,focused,4,0.2379,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+789,at first kept thinking about work. later it changed still a bit off tbh.,focused,1,5,4,4,0,72,0,mixed,3,0.2675,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+515,At first felt heavy.,mixed,1,3,3,3,0,20,0,overwhelmed,2,0.3844,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+632,honestly not much change,mixed,3,3,1,4,1,24,0,overwhelmed,4,0.4281,0,AMBIGUOUS_CONTEXT — multiple valid interpretations
+514,felt good for a moment,neutral,4,1,3,1,2,22,0,calm,4,0.3834,1,OVERLAPPING_STATES — 'neutral' and 'calm' share vocabulary
+564,kinda calm now,overwhelmed,1,4,3,2,0,14,1,focused,3,0.3294,1,SHORT_TEXT — too little signal for model
+508,At first felt good for a moment.,restless,5,5,4,2,1,32,0,calm,4,0.3716,0,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+669,honestly not much change,neutral,3,2,2,2,2,24,0,focused,3,0.3424,0,OVERLAPPING_STATES — 'neutral' and 'focused' share vocabulary
+439,for some reason things felt ordinary so i sat with that feeling.,neutral,2,5,5,1,2,64,0,calm,3,0.2289,1,OVERLAPPING_STATES — 'neutral' and 'calm' share vocabulary
+767,by the end kinda calm now.,restless,3,4,3,2,0,26,0,overwhelmed,4,0.3822,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+654,Honestly honestly not much change.,focused,1,1,4,3,2,34,0,restless,3,0.4331,0,AMBIGUOUS_CONTEXT — multiple valid interpretations
+722,During the session mind was all over the place. After some time back to normal after.,calm,5,5,1,2,2,85,0,mixed,4,0.3487,1,OVERLAPPING_STATES — 'calm' and 'mixed' share vocabulary
+819,started off fine i guess. this was better than yesterday. ...,neutral,5,3,1,2,1,61,0,mixed,3,0.3793,0,OVERLAPPING_STATES — 'neutral' and 'mixed' share vocabulary
+600,during the session helped me plan my day. later it changed felt good for a moment.,restless,1,1,2,3,2,82,0,focused,2,0.2482,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+614,"Honestly felt lighter, not fully though. ...",mixed,5,2,5,4,2,44,0,calm,2,0.4741,0,OVERLAPPING_STATES — 'mixed' and 'calm' share vocabulary
+754,somehow i felt actually able to focus. sleep probably affected it. ...,focused,1,3,5,3,1,70,0,neutral,3,0.2969,1,OVERLAPPING_STATES — 'focused' and 'neutral' share vocabulary
+419,I noticed I kept thinking about otehr tasks for a moment.,restless,4,4,4,2,0,57,0,neutral,3,0.4164,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+698,still anxious a bit,restless,1,5,5,1,2,19,0,neutral,2,0.3939,0,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+1065,kinda calm,focused,4,5,2,2,2,10,1,restless,4,0.3352,0,SHORT_TEXT — too little signal for model
+555,"at first some peace, some noise in head. tehn it shifted could focus for a while. ...",focused,4,4,3,3,0,85,0,mixed,3,0.2591,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+883,woke up feeling more tired than i expected. i kept thinking about emails.,overwhelmed,2,2,3,2,0,73,0,calm,4,0.3009,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+826,"ended up clear enough to plan, but ocean audio was nice.",focused,4,4,3,1,2,56,0,restless,3,0.2934,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+854,mixed honestly,neutral,5,4,4,1,0,14,1,restless,3,0.3868,0,SHORT_TEXT — too little signal for model
+899,"somehow i felt less tense, but i couldn't tell if it was helping at first.",calm,4,2,4,1,0,74,0,focused,3,0.2198,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+560,by the end felt good for a moment.,mixed,2,4,2,2,0,34,0,overwhelmed,3,0.2774,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+769,lowkey felt like everything piled up. i stayed with it anyway.,overwhelmed,3,2,3,4,0,62,0,neutral,4,0.3507,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+735,a little lighter,restless,4,4,3,2,1,16,1,calm,2,0.2867,1,"VAGUE_TEXT — generic language, low discriminability"
+866,honestly i felt pretty grounded. my breathing slowed for a moment.,calm,3,5,2,1,0,66,0,neutral,3,0.2435,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+100,"The forest track helped a little, though something still feels off underneath.",mixed,2,2,4,3,2,78,0,restless,3,0.3669,0,OVERLAPPING_STATES — 'mixed' and 'restless' share vocabulary
+675,Honestly kinda calm now.,neutral,1,4,4,4,1,24,0,restless,4,0.3476,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+570,mind was all over the place ...,calm,5,2,2,4,2,31,0,mixed,2,0.4119,0,OVERLAPPING_STATES — 'calm' and 'mixed' share vocabulary
+585,i guess back to normal after.,neutral,2,5,4,4,1,29,0,mixed,3,0.4376,0,OVERLAPPING_STATES — 'neutral' and 'mixed' share vocabulary
+785,not sure what changed ...,mixed,3,3,4,1,1,25,0,calm,3,0.3707,0,OVERLAPPING_STATES — 'mixed' and 'calm' share vocabulary
+733,mind was all over the place,neutral,5,5,3,3,2,27,0,mixed,2,0.3604,0,OVERLAPPING_STATES — 'neutral' and 'mixed' share vocabulary
+750,mind racing,neutral,5,2,3,2,2,11,1,mixed,2,0.3318,0,SHORT_TEXT — too little signal for model
+1028,ended up restless even after. teh rain helped a little. after that i could continue. ...,restless,5,1,1,1,1,88,0,calm,3,0.2666,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+573,Honestly felt better after a bit.,focused,2,5,1,2,0,33,0,mixed,2,0.2739,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+850,more clear today,overwhelmed,4,2,3,3,2,16,1,calm,2,0.4742,0,"VAGUE_TEXT — generic language, low discriminability"
+728,somehow i felt more organized mentally. cafe ambience weirdly helped. not sure why but it shifted.,focused,3,2,5,3,0,98,0,calm,2,0.2421,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+648,it was fine,restless,5,4,3,2,2,11,1,mixed,3,0.337,0,SHORT_TEXT — too little signal for model
+814,helped me plan my day,mixed,4,3,3,1,0,21,0,overwhelmed,2,0.2534,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+906,"not gonna lie i felt clear enough to plan, but my breathing slowed for a moment.",focused,5,1,2,3,0,80,0,restless,3,0.2412,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+798,tired but okay,mixed,3,4,1,4,1,14,1,focused,4,0.3586,0,SHORT_TEXT — too little signal for model
+281,"For some reason some moments felt peaceful, others not though I'm not sure why.",mixed,1,4,4,3,2,79,0,calm,3,0.2742,1,OVERLAPPING_STATES — 'mixed' and 'calm' share vocabulary
+688,honestly breathing slowed down.,restless,5,3,2,4,1,31,0,neutral,4,0.2984,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+778,okay session,mixed,1,2,2,2,1,12,1,focused,2,0.3211,0,SHORT_TEXT — too little signal for model
+590,not sure what changed,mixed,1,5,5,3,0,21,0,restless,2,0.2617,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+747,felt better,calm,5,4,5,4,0,11,1,mixed,3,0.4228,0,SHORT_TEXT — too little signal for model
+726,it was fine,restless,5,3,5,1,2,11,1,focused,3,0.3102,0,SHORT_TEXT — too little signal for model
+609,by the end felt good for a moment.,focused,5,2,3,1,0,34,0,overwhelmed,3,0.3359,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+617,for some reason kinda calm now.,focused,2,5,4,3,1,31,0,calm,3,0.5239,0,OVERLAPPING_STATES — 'focused' and 'calm' share vocabulary
+616,honestly helped me plan my day.,calm,1,3,5,2,1,31,0,restless,2,0.3202,0,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+175,Honestly my mind felt crowded before moving on.,overwhelmed,1,3,1,4,0,47,0,restless,3,0.2548,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+567,Honestly could focus for a while.,overwhelmed,2,4,4,4,1,33,0,neutral,3,0.4419,0,AMBIGUOUS_CONTEXT — multiple valid interpretations
+901,hard to focus,neutral,2,2,3,4,1,13,1,restless,3,0.3624,0,SHORT_TEXT — too little signal for model
+731,lowkey felt pretty grounded. i stayed with it anyway.,calm,5,4,2,4,2,53,0,neutral,4,0.2916,1,OVERLAPPING_STATES — 'calm' and 'neutral' share vocabulary
+597,Honestly felt good for a moment.,mixed,3,1,1,2,1,32,0,focused,4,0.495,0,AMBIGUOUS_CONTEXT — multiple valid interpretations
+524,felt heavy,calm,5,5,2,2,0,10,1,overwhelmed,3,0.3545,0,SHORT_TEXT — too little signal for model
+284,"At one point some moments felt peaceful, others not for a moment.",mixed,3,2,5,3,2,65,0,neutral,4,0.3268,1,OVERLAPPING_STATES — 'mixed' and 'neutral' share vocabulary
+72,"i sat through the mountain ambience, but i still feel flooded by what i need to do.",overwhelmed,4,5,3,4,2,83,0,restless,4,0.2853,1,OVERLAPPING_STATES — 'overwhelmed' and 'restless' share vocabulary
+776,not sure what changed ...,overwhelmed,1,4,4,3,0,25,0,restless,3,0.2586,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+795,woke up feeling ready to start work. i was more tired than i thought.,focused,5,2,2,4,0,69,0,calm,3,0.4508,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+481,Honestly mind was all over teh place.,restless,1,1,2,4,1,37,0,focused,3,0.4112,0,AMBIGUOUS_CONTEXT — multiple valid interpretations
+732,okay session,restless,1,3,3,4,1,12,1,focused,3,0.4074,0,SHORT_TEXT — too little signal for model
+703,At first okay session.,calm,4,3,2,2,0,22,0,mixed,4,0.333,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+768,not much change,restless,1,3,5,4,1,15,1,mixed,2,0.27,1,"VAGUE_TEXT — generic language, low discriminability"
+995,hard to focus,focused,2,3,1,2,2,13,1,overwhelmed,3,0.4177,0,SHORT_TEXT — too little signal for model
+861,"kind of felt clearer than earlier, but forest sounds worked for a bit.",focused,2,5,4,4,2,70,0,neutral,3,0.238,1,OVERLAPPING_STATES — 'focused' and 'neutral' share vocabulary
+589,"During the session felt good for a moment. Later it changed felt lighter, not fully though.",mixed,5,1,2,1,0,91,0,calm,2,0.4348,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+530,it was fine,calm,3,2,4,2,2,11,1,focused,3,0.34,0,SHORT_TEXT — too little signal for model
+503,felt better after a bit ...,overwhelmed,2,3,1,4,1,27,0,mixed,2,0.2978,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+903,after the session i felt distracted most of the time. i stayed with it anyway. ...,restless,5,5,1,1,2,82,0,overwhelmed,2,0.2711,1,OVERLAPPING_STATES — 'restless' and 'overwhelmed' share vocabulary
+734,started off kind of jumpy. my breathing slowed for a moment.,restless,2,2,3,4,2,60,0,focused,3,0.3205,0,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+500,During the session got distracted again. Then it shifted kept thinking about work.,calm,3,4,4,4,0,82,0,restless,3,0.2922,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+950,started off half relaxed half distracted. i was more tired than i thought. then it faded again.,mixed,3,4,1,4,1,95,0,restless,3,0.2888,1,OVERLAPPING_STATES — 'mixed' and 'restless' share vocabulary
+678,Honestly felt good for a moment. Later it changed mind was all over the place.,calm,5,5,4,2,0,78,0,restless,3,0.2459,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+796,Honestly felt better after a bit.,focused,2,3,2,3,2,33,0,restless,1,0.4306,0,AMBIGUOUS_CONTEXT — multiple valid interpretations
+1026,started off clear enough to plan. i had to restart once. ...,focused,1,2,5,4,2,60,0,restless,2,0.4143,0,AMBIGUOUS_CONTEXT — multiple valid interpretations
+729,At first that helped a little.,neutral,4,2,1,1,2,30,0,restless,2,0.4984,0,AMBIGUOUS_CONTEXT — multiple valid interpretations
+782,For some reason not sure what changed.,neutral,2,2,4,1,0,38,0,focused,2,0.5076,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+593,felt better after a bit,overwhelmed,2,4,3,2,2,23,0,mixed,2,0.39,0,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+642,at first helped me plan my day. later it changed mind was all over the place. ...,neutral,2,3,1,3,1,81,0,overwhelmed,2,0.2743,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+780,"felt lighter, not fully though",restless,4,1,3,3,2,30,0,focused,3,0.3384,0,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+957,"today i was all over the place, but i was more tired than i thought. ...",restless,1,5,3,2,0,72,0,overwhelmed,3,0.39,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+681,mind was all over the place ...,overwhelmed,2,4,2,2,2,31,0,mixed,2,0.3486,0,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+1012,ended up locked in for a bit. ocean audio was nice. not sure why but it shifted.,focused,1,1,3,2,0,80,0,neutral,3,0.3111,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+946,"started off more tired than i expected, but this was better than yesterday.",overwhelmed,4,1,5,3,2,75,0,calm,3,0.2426,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+834,"ended up pretty even, but i couldn't tell if it was helping at first.",neutral,5,4,3,3,1,69,0,restless,3,0.3931,0,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+884,tired but okay ...,mixed,1,5,5,4,0,18,0,overwhelmed,4,0.2875,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+797,helped me plan my day,focused,2,1,5,1,0,21,0,overwhelmed,2,0.379,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+835,At first honestly not much change.,mixed,5,4,2,4,0,34,0,restless,2,0.4862,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+952,after the session i felt a lot quieter inside. my breathing slowed for a moment.,calm,2,4,4,4,1,80,0,focused,3,0.2382,1,OVERLAPPING_STATES — 'calm' and 'focused' share vocabulary
+625,I guess not sure what changed.,restless,2,1,4,3,2,30,0,focused,3,0.2423,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+608,got distracted again,focused,3,1,3,4,1,20,1,mixed,3,0.2642,1,"VAGUE_TEXT — generic language, low discriminability"
+606,it was fine,mixed,2,3,5,4,2,11,1,focused,3,0.4031,0,SHORT_TEXT — too little signal for model
+871,somehow i felt mostly teh same. i had to restart once.,neutral,1,4,1,3,2,54,0,restless,3,0.2704,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+704,"i guess some peace, some noise in head.",focused,3,3,4,4,2,39,0,calm,4,0.2986,1,OVERLAPPING_STATES — 'focused' and 'calm' share vocabulary
+758,"By the end felt lighter, not fully though.",neutral,5,4,2,1,0,42,0,restless,3,0.3062,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+836,At first still a bit off tbh.,neutral,2,2,5,1,0,29,0,focused,3,0.3809,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+816,felt better after a bit,calm,3,3,5,4,0,23,0,mixed,2,0.3726,0,"NOISY_LABEL — vague reflection quality, unreliable ground truth"
+972,not gonna lie i felt all over the place. the rain helped a little.,restless,5,2,5,4,2,66,0,neutral,3,0.2395,1,"LOW_CONFIDENCE — model genuinely uncertain, borderline case"
+725,not gonna lie i felt not very different. my breathing slowed for a moment.,neutral,4,1,2,2,0,74,0,restless,3,0.2563,1,"NOISY_LABEL — vague reflection quality, unreliable ground truth"

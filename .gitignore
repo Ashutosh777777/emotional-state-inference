@@ -1,0 +1,5 @@
+data/train.csv
+data/test.csv
+model_bundle.pkl
+__pycache__/
+*.pyc

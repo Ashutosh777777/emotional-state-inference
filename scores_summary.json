@@ -1,0 +1,33 @@
+{
+  "val_accuracy": 0.5667,
+  "val_weighted_f1": 0.5671,
+  "val_intensity_mae": 1.2583,
+  "val_intensity_within1": 0.625,
+  "cv_weighted_f1_mean": 0.4693,
+  "cv_weighted_f1_std": 0.024,
+  "best_model": "GradientBoosting",
+  "model_selection_cv_f1": 0.5245,
+  "n_classes": 6,
+  "classes": [
+    "calm",
+    "focused",
+    "mixed",
+    "neutral",
+    "overwhelmed",
+    "restless"
+  ],
+  "all_model_scores": {
+    "RandomForest": {
+      "f1_mean": 0.4541,
+      "f1_std": 0.0219
+    },
+    "GradientBoosting": {
+      "f1_mean": 0.5245,
+      "f1_std": 0.0429
+    },
+    "LogisticRegression": {
+      "f1_mean": 0.4554,
+      "f1_std": 0.0308
+    }
+  }
+}

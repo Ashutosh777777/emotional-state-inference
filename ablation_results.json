@@ -1,0 +1,14 @@
+{
+  "text_only": {
+    "mean_f1": 0.4534,
+    "std_f1": 0.0277
+  },
+  "meta_only": {
+    "mean_f1": 0.2716,
+    "std_f1": 0.0227
+  },
+  "combined": {
+    "mean_f1": 0.4514,
+    "std_f1": 0.0232
+  }
+}
